@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Event Handling Ways</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: linear-gradient(135deg, #ffe6f0, #e6f7ff);
+      padding: 50px;
+    }
+    h1 {
+      color: #444;
+    }
+    p {
+      color: #6a0dad;
+      font-weight: bold;
+    }
+    button {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 8px;
+      background-color: #6a5acd;
+      color: white;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    button:hover {
+      background-color: #483d8b;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <h1>🎯 JavaScript Event Handling Ways</h1>
+
+  <!-- 1st Way -->
+  <p>I<sup>st</sup> Way – Inline Event</p>
+  <button onclick="alert('Button clicked! (1st way)')">Click Me</button>
+
+  <br><br>
+
+  <!-- 2nd Way -->
+  <p>II<sup>nd</sup> Way – Using DOM Property</p>
+  <button id="btn2">Click Me (2nd way)</button>
+
+  <br><br>
+
+  <!-- 3rd Way -->
+  <p>III<sup>rd</sup> Way – Using addEventListener (Recommended)</p>
+  <button id="btn3">Click Me (3rd way)</button>
+
+  <script>
+    // 2nd way
+    document.getElementById("btn2").onclick = function() {
+      alert("Button clicked! (2nd way)");
+    };
+
+    // 3rd way (recommended)
+    const btn3 = document.getElementById("btn3");
+    btn3.addEventListener("click", function() {
+      alert("Button clicked! (3rd way - addEventListener)");
+    });
+  </script>
+</body>
+</html>
