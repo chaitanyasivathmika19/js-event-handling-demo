@@ -21,3 +21,31 @@ This project demonstrates the **three main ways to handle events in JavaScript**
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/js-event-handling-demo.git
+## 🖼️ Demo Preview
+
+Check out the live demo:  
+[https://chaitanyasivathmika19.github.io/js-event-handling-demo/](https://chaitanyasivathmika19.github.io/js-event-handling-demo/)
+
+Click the buttons on the page to see how each event handling method triggers alerts.
+
+---
+
+## 📚 Technologies Used
+
+- **HTML5** – Structure of the page  
+- **CSS3** – Styling and animations  
+- **JavaScript (ES6)** – Event handling logic  
+
+---
+
+## 👩‍💻 Author
+
+**Chaitanya Sivathmika**  
+Front-end Developer & Cloud Enthusiast 🌩️  
+✨ _Learning by building!_
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
