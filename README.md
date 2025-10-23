@@ -21,6 +21,10 @@ This project demonstrates the **three main ways to handle events in JavaScript**
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/js-event-handling-demo.git
+
+2. Open `index.html` in any web browser.
+
+--- 
 ## 🖼️ Demo Preview
 
 Check out the live demo:  
