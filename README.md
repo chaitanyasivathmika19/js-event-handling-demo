@@ -3,7 +3,6 @@
 This project demonstrates the **three main ways to handle events in JavaScript** — inline event, DOM property method, and the modern `addEventListener()` approach. It’s a simple, interactive demo that helps beginners understand how JavaScript responds to user actions like button clicks.
 
 ---
-
 ## 🚀 Features
 
 - ✅ Shows all 3 event handling methods:
@@ -41,7 +40,6 @@ Click the buttons on the page to see how each event handling method triggers ale
 - **JavaScript (ES6)** – Event handling logic  
 
 ---
-
 ## 👩‍💻 Author
 
 **Chaitanya Sivathmika**  
