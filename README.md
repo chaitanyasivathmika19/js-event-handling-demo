@@ -39,24 +39,12 @@ Click the buttons on the page to see how each event handling method triggers ale
 ---
 
 ## 📘 Event Handling Methods
+### 🩵 Full Page View
+<img width="1918" height="1068" alt="Full Page View" src="https://github.com/user-attachments/assets/e1e7576f-dcd5-4844-ab35-7daf7be90d03" />
 
-### 🩵 1️⃣ Inline Event (onclick Attribute)
+### 💜 Inline Event (onclick Attribute)
+<img width="1919" height="1067" alt="Inline Event Demo" src="https://github.com/user-attachments/assets/4243d14a-b22b-4a12-819b-edf6aa99a8dc" /> remanining 2 are also same as this image 
 
-<img width="1918" height="1068" alt="Inline Event Demo" src="https://github.com/user-attachments/assets/e1e7576f-dcd5-4844-ab35-7daf7be90d03" />
-
----
-
-### 💜 2️⃣ DOM Property Method (`element.onclick`)
-
-<img width="1919" height="1067" alt="DOM Property Demo" src="https://github.com/user-attachments/assets/4243d14a-b22b-4a12-819b-edf6aa99a8dc" />
-
----
-
-### 💙 3️⃣ addEventListener() Method (Recommended)
-
-<img width="1919" height="1067" alt="addEventListener Demo" src="https://github.com/user-attachments/assets/YOUR_IMAGE_LINK_HERE" />
-
-_(Replace `YOUR_IMAGE_LINK_HERE` with the 3rd screenshot URL once uploaded.)_
 
 ---
 
