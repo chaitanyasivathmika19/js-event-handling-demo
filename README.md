@@ -2,6 +2,10 @@
 
 This project demonstrates the **three main ways to handle events in JavaScript** — inline event, DOM property method, and the modern `addEventListener()` approach. It’s a simple, interactive demo that helps beginners understand how JavaScript responds to user actions like button clicks.
 
+<p align="center">
+  🔗 <a href="https://chaitanyasivathmika19.github.io/js-event-handling-demo/">View Live Demo</a>
+</p>
+
 ---
 ## 🚀 Features
 
