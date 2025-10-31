@@ -40,11 +40,28 @@ Click the buttons on the page to see how each event handling method triggers ale
 - **JavaScript (ES6)** – Event handling logic  
 
 ---
+## 🧠 Learning Outcome
+
+- Learned different ways to handle events in JavaScript  
+- Understood the difference between inline, DOM-based, and `addEventListener()` methods  
+- Improved understanding of JavaScript interactivity and browser behavior  
+
+---
+
 ## 👩‍💻 Author
 
 **Chaitanya Sivathmika**  
 Front-end Developer & Cloud Enthusiast 🌩️  
 ✨ _Learning by building!_
+
+---
+
+## 📬 Connect With Me
+
+- GitHub: [chaitanyasivathmika19](https://github.com/chaitanyasivathmika19)  
+- LinkedIn: [Chaitanya Sivathmika Y](https://www.linkedin.com/in/chaitanya-sivathmika-y-0b985124b/)  
+- Email: [sivathmikayalamandala33@gmail.com](mailto:sivathmikayalamandala33@gmail.com)
+
 
 ---
 
