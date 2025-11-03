@@ -40,7 +40,7 @@ Click the buttons on the page to see how each event handling method triggers ale
 
 ### 💜 Inline Event (onclick Attribute)
 <img width="1919" height="1067" alt="Inline Event Demo" src="https://github.com/user-attachments/assets/4243d14a-b22b-4a12-819b-edf6aa99a8dc" /> 
-  ### Remanining two event handling methods are also same as this image
+ Remanining two event handling methods are also same as this image
 
 
 
