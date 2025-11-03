@@ -12,7 +12,7 @@ This project demonstrates the **three main ways to handle events in JavaScript**
 - 🧠 Easy-to-understand and beginner-friendly
 - 🎨 Simple design with hover effects and gradient background
 - 💡 Perfect for learning or teaching JavaScript basics
-- 
+
 ---
 
 ## 🧩 How to Run
